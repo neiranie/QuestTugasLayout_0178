@@ -13,6 +13,10 @@
     <color name="peter_name">#FFFFFF</color>
     <color name="peter_detail">#90CAF9</color>
     <color name="peter_location">#FFEB3B</color>
+    <color name="noir_card">#E0E0E0</color>
+    <color name="noir_name">#000000</color>
+    <color name="noir_detail">#424242</color>
+    <color name="noir_location">#616161</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
