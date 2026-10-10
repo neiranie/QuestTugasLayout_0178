@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
     <color name="screen_background">#F8F7FF</color>
     <color name="text_primary">#1C1B1F</color>
+
     <color name="miles_card">#14142B</color>
     <color name="miles_name">#E62429</color>
     <color name="miles_location">#4FC3F7</color>
+
     <color name="gwen_card">#FCE4EC</color>
     <color name="gwen_name">#D81B60</color>
     <color name="gwen_detail">#00ACC1</color>
     <color name="gwen_location">#AD1457</color>
+
     <color name="peter_card">#C62828</color>
     <color name="peter_name">#FFFFFF</color>
     <color name="peter_detail">#90CAF9</color>
     <color name="peter_location">#FFEB3B</color>
+
     <color name="noir_card">#E0E0E0</color>
     <color name="noir_name">#000000</color>
     <color name="noir_detail">#424242</color>
     <color name="noir_location">#616161</color>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
 </resources>
