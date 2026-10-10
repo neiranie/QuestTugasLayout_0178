@@ -16,3 +16,7 @@
 <string name="peter_name">Peter B. Parker</string>
 <string name="peter_detail">Veteran Spider-Man</string>
 <string name="peter_location">Earth-616</string>
+
+<string name="noir_name">Spider-Noir</string>
+<string name="noir_detail">Private Eye Spider-Man</string>
+<string name="noir_location">Earth-90214</string>
