@@ -1,5 +1,6 @@
 package com.example.questtugaslayout_0178.ui.screen
 
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -44,4 +45,10 @@ fun MainScreen(
 
         FooterSection()
     }
+}
+
+@Preview(showBackground = true)
+@Composable
+private fun MainScreenPreview() {
+    MainScreen()
 }
