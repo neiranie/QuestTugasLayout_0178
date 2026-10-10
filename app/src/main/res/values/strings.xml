@@ -12,3 +12,7 @@
 <string name="gwen_name">Gwen Stacy</string>
 <string name="gwen_detail">Ghost-Spider</string>
 <string name="gwen_location">Earth-65</string>
+
+<string name="peter_name">Peter B. Parker</string>
+<string name="peter_detail">Veteran Spider-Man</string>
+<string name="peter_location">Earth-616</string>
