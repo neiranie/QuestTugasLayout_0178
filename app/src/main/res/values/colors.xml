@@ -5,6 +5,10 @@
     <color name="miles_card">#14142B</color>
     <color name="miles_name">#E62429</color>
     <color name="miles_location">#4FC3F7</color>
+    <color name="gwen_card">#FCE4EC</color>
+    <color name="gwen_name">#D81B60</color>
+    <color name="gwen_detail">#00ACC1</color>
+    <color name="gwen_location">#AD1457</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
